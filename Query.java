@@ -59,12 +59,12 @@ public class Query {
     /**
      * target for Queries. should be set only host (exclude http://)
      */
-    public static String HOST_NAME = "damoyeo.com";
+    public static String HOST_NAME = "*";
 
     /**
      * this setting used to identify app kind
      */
-    public static String APP_NAME = "damoeyo_main";
+    public static String APP_NAME = "*";
 
     public static Exception lastException = new Exception();
 
