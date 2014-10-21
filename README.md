@@ -9,4 +9,6 @@ Documentation
 
 this project is WIP.
 
-
+Setting Vars
+HOST_NAME
+APP_NAME
